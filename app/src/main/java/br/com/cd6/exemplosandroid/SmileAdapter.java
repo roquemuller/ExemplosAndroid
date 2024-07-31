@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
+import br.com.cd6.exemploandroid.R;
+
 /**
  * Adaptador customizado que exibe o layout definido em smile_row.xml
  * 

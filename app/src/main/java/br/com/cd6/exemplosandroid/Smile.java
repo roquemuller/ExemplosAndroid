@@ -1,5 +1,6 @@
 package br.com.cd6.exemplosandroid;
 
+import br.com.cd6.exemploandroid.R;
 /**
  * @author Roque Junior
  */

@@ -11,6 +11,8 @@ import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
+import br.com.cd6.exemploandroid.R;
+
 /**
  * Exemplo de ListActivity que utiliza o SimpleCursorAdapter para ler os
  * contatos da agenda

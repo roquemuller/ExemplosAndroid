@@ -10,6 +10,8 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import br.com.cd6.exemploandroid.R;
+
 /**
  * Exemplo simples de ListActivity com SimpleAdapter
  * 
